@@ -34,6 +34,7 @@ p { margin: 0; }
 }
 .intro-copy { min-width: 0; }
 h1 {
+  text-align: center;
   font-size: 33px;
   font-weight: 600;
   line-height: 1.25;
